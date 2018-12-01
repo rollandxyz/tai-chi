@@ -2,9 +2,6 @@
 
 [https://legacy.ymaa.com/articles/2016/02/step-by-step-tai-chi-24-form]
 
-
-## Section 1
-
 1. Commencing Form  起勢	Qishi
 2. Left and Right Part the Wild Horse's Mane  左右野馬分鬃	Zuo You Ye Ma Fen Zong
 3. White Crane Spreads Its Wings  白鹤亮翅	Bai He Liang Chi
@@ -18,7 +15,7 @@
 11. Left Single Whip  單鞭 Dan Bian
 12. High Pat on Horse   高探馬	Gao Tan Ma
 13. Right Heel Kick  右蹬脚	You Deng Jiao
-14. Strike to the Ears with Both Fists  雙峰貫耳右蹬脚	Shuang Feng Guan Er
+14. Strike to the Ears with Both Fists  雙峰貫耳	Shuang Feng Guan Er
 15. Left Heel Kick  左蹬脚	Zhuan She Zuo Deng Jiao
 16. Left Lower Body and Stand on One Leg 左下勢獨立	Zuo Xia Shi Duli
 17. Right Lower Body and Stand on One Leg右下勢獨立	You Xia Shi Duli
