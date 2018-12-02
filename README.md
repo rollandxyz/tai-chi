@@ -34,6 +34,12 @@
 
 ### introduction
 - https://www.youtube.com/watch?v=9mliFDP1Zcw
+- https://www.youtube.com/watch?v=jD4doe7sWV4&list=PLXFVyJmHGl5UpPQZlMt4YRQmOWR0IH3rb
+- https://www.youtube.com/watch?v=K33b6o4w2aM&list=RDK33b6o4w2aM&start_radio=1&t=8
+- https://www.youtube.com/watch?v=WGTzLyXuTx4
+- https://www.youtube.com/watch?v=XxMJNWdYy_Q
+- https://www.youtube.com/watch?v=-xrSyHDu3cM
+
 
 ### other references
 - https://www.youtube.com/watch?v=mSAkSB00FUo
